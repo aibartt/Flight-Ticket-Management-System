@@ -15,8 +15,6 @@ The application interacts with the user using a command line (terminal based) in
 
   ![](1.jpg)
   
-  ![](2.jpg)
-  
   ![](3.jpg)
   
   ![](4.jpg)
