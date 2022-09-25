@@ -12,3 +12,13 @@ Ex.: Emirates Sky Cargo,1,Lebanon,USA,3,800,11:50,14:15,1-Apr
 ##User Interface:
 Through its prompt, the program is expected to accept several commands that we outline next; these commands accept as operand a string that provides a flight-ticket’s data, or the combination of companyName and flightNumber used as the key to look up records.
 The application interacts with the user using a command line (terminal based) interface as shown below:
+
+  ![](1.jpg)
+  
+  ![](2.jpg)
+  
+  ![](3.jpg)
+  
+  ![](4.jpg)
+  
+  ![](5.jpg)
